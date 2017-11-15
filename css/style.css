@@ -1,7 +1,6 @@
 body {
     background-color: #efeee7;
     font-family: "Georgia", "Times New Roman", serif;
-    color: darkorange;
     margin: 0;
     padding: 0;
     line-height: 1.5;
@@ -16,6 +15,7 @@ h1 {
     color: #eee;
     font-size: 28px;
     padding: 10px;
+    margin: 0;
 }
 
 h2 {
@@ -37,6 +37,7 @@ a {
 
 #bio-image {
     width: 200px;
+    margin-right: 20px;
 }
 
 #main-bio {
